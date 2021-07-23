@@ -1,7 +1,7 @@
 # Main rules  
 title: "Way of knowledge"
 remote_theme: pmarsceill/just-the-docs  
-color_scheme: "dark"
+color_scheme: dark
 search_enabled: false    
 
 # Aux links for the upper right navigation
