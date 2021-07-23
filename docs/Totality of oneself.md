@@ -1,3 +1,0 @@
-"What's the thing that matters then?" I asked.
-He seemed to search for an appropriate answer. "What matters is that a warrior be impeccable," he finally said. "But that's only a way of talking; a way of beating around the bush. You have already accomplished some tasks of sorcery and I believe this is the time to mention the source of everything that matters. So I will say that what matters to a warrior is arriving at the totality of oneself." "What is the totality of oneself, don Juan?" "I said that I was only going to mention it. There are still a lot of loose ends in your life that you must tie together before we can talk about the totality of oneself."
-
