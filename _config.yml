@@ -1,5 +1,5 @@
 # Main rules  
-title: "Way of knowledge"
+title: "Путь воинов"
 remote_theme: pmarsceill/just-the-docs  
 color_scheme: dark
 search_enabled: false    
@@ -10,4 +10,4 @@ search_enabled: false
 #    - "https://github.com/januarythirtyfirst/Way-of-knowledge/tree/main"
     
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true  
+aux_links_new_tab: false  
