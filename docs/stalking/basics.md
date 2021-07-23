@@ -3,7 +3,6 @@ layout: default
 title: basics  
 nav_order: 1   
 parent: stalking  
-has_children: true 
 ---  
 Four moods of stalking:
 ruthlessness should not be harshness
