@@ -2,8 +2,8 @@
 layout: default
 title: Erase personal history!
 parent: I step
-has_children: true
 nav_order: 1
+has_children: true
 ---
 
 >He explained that in order to help erase personal history, three other techniques were taught. They were: losing self-importance, assuming responsibility, and using death as an adviser. The idea was that without the beneficial effect of those three techniques, erasing personal history would involve the apprentice in being shifty, evasive and unnecessarily dubious about himself and his actions.  
