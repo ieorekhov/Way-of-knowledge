@@ -1,9 +1,8 @@
 ---
 layout: default
-title: main
+title: Home
 nav_order: 1  
-has_children: false  
-has_toc: true  
+permalink: /  
 ---  
 
 ![alt-text](/img/Berserk.jpg)
